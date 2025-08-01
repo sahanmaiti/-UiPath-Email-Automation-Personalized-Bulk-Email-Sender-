@@ -105,12 +105,6 @@ Priya Shah	priya.shah@example.com
 
 ⸻
 
-📸 Screenshots
-
-(Optional: Upload screenshots to the Screenshots folder and display them using markdown below)
-
-⸻
-
 🏁 Outcome
 	•	✅ 100% accuracy in sending personalized emails
 	•	⏱️ Reduced time and manual effort
